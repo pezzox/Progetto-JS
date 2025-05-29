@@ -60,7 +60,8 @@ _Aggiungi qui uno screenshot dell'app in funzione_
 
 ## 🔗 Link al progetto
 
-👉 https://github.com/pezzox/Progetto-JS
+https://github.com/pezzox/Progetto-JS
+https://pezzox.github.io/Progetto-JS/
 ---
 
 ## ✍️ Autore
