@@ -43,12 +43,6 @@ Una semplice web app per contare, resettare e salvare valori. Sviluppata in **HT
 
 ---
 
-## 📸 Screenshot
-
-_Aggiungi qui uno screenshot dell'app in funzione_
-
----
-
 ## ✅ Cosa ho imparato
 
 - Manipolazione del DOM in JavaScript puro
