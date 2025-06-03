@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: $font-main;
+  background-color: $bg-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-container h1 {
+  color: $text-color;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.counter-display {
+  font-size: 64px;
+  margin: 20px 0;
+  min-width: 120px;
+  text-align: center;
+  color: $text-color;
+  transition: transform 0.15s ease-in-out;
+
+  &.animate {
+    transform: scale(1.2);
+  }
+}

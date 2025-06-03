@@ -1,0 +1,35 @@
+button {
+  font-size: 20px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 90px;
+  text-align: center;
+  font-weight: 600;
+
+  &:hover {
+    opacity: 0.95;
+    transform: translateY(-2px);
+  }
+
+  &:active {
+    transform: scale(0.97);
+  }
+}
+
+.btn-decrease {
+  background-color: $red;
+  color: white;
+}
+
+.btn-increase {
+  background-color: $green;
+  color: white;
+}
+
+.btn-reset {
+  background-color: $blue;
+  color: white;
+}
