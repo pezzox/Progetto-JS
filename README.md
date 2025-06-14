@@ -23,6 +23,9 @@ Sviluppata in **HTML**, **JavaScript vanilla** e **SCSS** modulare, questa app �
 CounterApp_SCSS/
 ├── index.html # HTML principale
 ├── app.js # Logica JavaScript dell’app
+├── assets # Cartella Img
+  └── img
+      └── favicon.png
 ├── style.css # File generato automaticamente da style.scss
 └── scss/ # Cartella SCSS sorgente
   ├── _variables.scss # Variabili globali (colori, font, ecc.)
@@ -30,6 +33,7 @@ CounterApp_SCSS/
   ├── _typography.scss # Tipografia e stili testo
   ├── _buttons.scss # Stili pulsanti
   └── style.scss # File principale che importa tutti i partials
+  
 
 
 ---
